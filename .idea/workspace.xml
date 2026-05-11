@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13e3706b-b317-4269-8d5e-a91ee617214f" name="Changes" comment="add github actions ci">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffee/controller/PageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image10_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image17_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/second.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,14 +63,18 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/ci_cd",
+    "last_opened_file_path": "D:/ci_cd/src/main/resources/templates",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ci_cd\src\main\resources\templates" />
       <recent name="D:\ci_cd" />
       <recent name="D:\ci_cd\untitled" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ci_cd\src\main\resources\static" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -124,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778477420977</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add github actions ci">
+      <option name="closed" value="true" />
+      <created>1778478270554</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778478270554</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
